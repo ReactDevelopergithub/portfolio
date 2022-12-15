@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58ab2a5d.css",
+    "main.js": "/static/js/main.beb9ed69.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/profile video.mp4": "/static/media/profile video.c72ee545613c9122aa45.mp4",
+    "static/media/ab.jpg": "/static/media/ab.f08ad90d96cae5898e01.jpg",
+    "static/media/cde.jpg": "/static/media/cde.8a29accce82a085d68c5.jpg",
+    "static/media/fg.jpg": "/static/media/fg.8a29accce82a085d68c5.jpg",
+    "static/media/abcd.jpg": "/static/media/abcd.6959c1630d962eb9ec95.jpg",
+    "static/media/abcde.jpg": "/static/media/abcde.c97910b8680ac0ce49c5.jpg",
+    "static/media/abcdef.jpg": "/static/media/abcdef.995c6b82a8c7d1ae8029.jpg",
+    "static/media/abc.jpg": "/static/media/abc.60c6ed98182c953e8846.jpg",
+    "static/media/marketing.jpg": "/static/media/marketing.f629aa392c4ff105f747.jpg",
+    "static/media/app.jpeg": "/static/media/app.8714f36598ad2ce812b5.jpeg",
+    "static/media/portfolio1 (2).png": "/static/media/portfolio1 (2).efaaa6b16dbaf83c9889.png",
+    "static/media/android.jpeg": "/static/media/android.ee1d95083516dda0d669.jpeg",
+    "static/media/software.jpeg": "/static/media/software.1cb4dc77f9fd741d63f4.jpeg",
+    "static/media/digital.jpeg": "/static/media/digital.dad8270c838055c62dd3.jpeg",
+    "static/media/profile-img.jpeg": "/static/media/profile-img.211e6f9a0b41920342ba.jpeg",
+    "static/media/web.jpg": "/static/media/web.8e51e67dff71d6464727.jpg",
+    "static/media/hero-img.png": "/static/media/hero-img.53f1b5467e5095dc4126.png",
+    "static/media/hero-1.svg": "/static/media/hero-1.d12e2a271e618bd9bc130b61d3930482.svg",
+    "index.html": "/index.html",
+    "main.58ab2a5d.css.map": "/static/css/main.58ab2a5d.css.map",
+    "main.beb9ed69.js.map": "/static/js/main.beb9ed69.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58ab2a5d.css",
+    "static/js/main.beb9ed69.js"
+  ]
+}
